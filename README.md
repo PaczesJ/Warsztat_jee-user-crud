@@ -2,7 +2,7 @@
 ## Pacześny Jakub
 
 
-Technologia używana w ramach projektu to język Java(Servlety) oraz MySQL.
+Technologia używana w ramach projektu to język Java oraz MySQL.
 # Wstęp
 Celem warsztatu jest wytworzenie aplikacji webowej, która będzie umożliwiać zarządzanie użytkownikami : UsersCRUD.
 
