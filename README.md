@@ -1,8 +1,6 @@
 # Warsztat_Java_USER_CRUD
 ## Pacześny Jakub
 
-
-Technologia używana w ramach projektu to język Java oraz MySQL.
 # Wstęp
 Celem warsztatu jest wytworzenie aplikacji webowej, która będzie umożliwiać zarządzanie użytkownikami : UsersCRUD.
 
