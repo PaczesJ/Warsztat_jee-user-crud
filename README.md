@@ -13,7 +13,9 @@ W projekcie zastosowano:
 - OOP,
 - MySQL,
 - DAO,
-- Maven.
+- Maven,
+- HTML,
+- CSS.
 
 # Aplikacja
 - ekran wyświetlający listę wszystkich użytkowników,
